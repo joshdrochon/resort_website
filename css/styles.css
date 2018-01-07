@@ -1,14 +1,18 @@
 h1 {
-  color: green;
+  color: darkgrey;
   text-align: center;
 }
 
 h2 {
-  color: default;
+  color: darkgrey;
   text-align: center;
   font-family: sans-serif;
 }
 
-ul li {
-  text-decoration: none;
+ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: lightgreen;
 }
